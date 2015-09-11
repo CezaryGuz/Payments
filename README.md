@@ -1,2 +1,2 @@
 # Payments
-Small app to manage home bills and payments
+Small app to manage home bills and payments.
