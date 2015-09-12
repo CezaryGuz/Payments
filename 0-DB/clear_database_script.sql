@@ -1,0 +1,1 @@
+DELETE FROM `payments`.`pay` WHERE `id` is not null;
